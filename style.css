@@ -43,3 +43,46 @@ header {
   border-radius: 5px;
   background: #f15b22;
 }
+.first-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main-pic{
+    width: 527.929px;
+}
+.main-text  {
+    margin-left: 105px;
+
+   
+}
+.main-title{
+    width: 288px;
+    color:  #151414;
+font-size: 40px;
+font-weight: 700;
+padding-bottom: 24px;
+}
+.main-description{
+    width: 416px;
+    color:  #444343;
+font-size: 16px;
+font-weight: 400;
+padding-bottom: 24px;
+}
+.main-list{
+    color: #444343;
+font-size: 16px;
+font-weight: 400;
+}
+ul li{
+    list-style: none;
+    padding-bottom: 10px;
+}
+li i{
+    color: #16D887;
+    padding-top: 10px;
+    padding-right: 24px;
+}
+
